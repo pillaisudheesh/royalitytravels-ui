@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a67c0d75.css",
+    "main.js": "/static/js/main.9cc4937c.js",
+    "static/js/787.5fd0b07f.chunk.js": "/static/js/787.5fd0b07f.chunk.js",
+    "static/media/banner.jpg": "/static/media/banner.f089e68b6249e9dcb3f1.jpg",
+    "static/media/royalitylogo.png": "/static/media/royalitylogo.6248ba46c1b4676a4ddd.png",
+    "index.html": "/index.html",
+    "main.a67c0d75.css.map": "/static/css/main.a67c0d75.css.map",
+    "main.9cc4937c.js.map": "/static/js/main.9cc4937c.js.map",
+    "787.5fd0b07f.chunk.js.map": "/static/js/787.5fd0b07f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a67c0d75.css",
+    "static/js/main.9cc4937c.js"
+  ]
+}
