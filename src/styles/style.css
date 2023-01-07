@@ -343,6 +343,9 @@ a:focus {
 .footer .copyright a {
   font-weight: 600;
 }
+.lh-35 {
+  line-height: 35px;
+}
 
 .section {
   padding: 100px 0;
@@ -407,3 +410,49 @@ a:focus {
   transition: all 0.35s ease;
 }
 
+.page-title {
+  padding: 120px 0px 70px 0px;
+  position: relative;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: #223a66;
+}
+.page-title .block h1 {
+  color: #fff;
+}
+.page-title .block p {
+  color: #fff;
+}
+.page-title .breadcumb-nav {
+  margin-top: 60px;
+  padding-top: 30px;
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+}
+.overlay:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.9;
+  background: #223a66;
+}
+
+.contact-block {
+  text-align: center;
+  border: 5px solid #EEF2F6;
+  padding: 50px 25px;
+}
+.contact-block i {
+  font-size: 50px;
+  margin-bottom: 15px;
+  display: inline-block;
+  color: #ffac00;
+}

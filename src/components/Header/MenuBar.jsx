@@ -14,8 +14,9 @@ const MenuBar = () => {
         <Navbar.Collapse id="navbarmain">
           <Nav className="ms-auto" activeKey={location.pathname}>
             <Nav.Link href="/">Home</Nav.Link>
+            <Nav.Link href="#link">About Us</Nav.Link>
             <Nav.Link href="#link">Our Services</Nav.Link>
-            <Nav.Link href="#link">Contact Us</Nav.Link>
+            <Nav.Link href="/contact">Contact Us</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
