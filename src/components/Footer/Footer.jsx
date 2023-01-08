@@ -87,7 +87,7 @@ const Footer = () => {
                   <a href="#!">FAQuestions</a>
                 </li>
                 <li>
-                  <a href="#!">Company Licence</a>
+                  <a href="/companyinfo">Company Information</a>
                 </li>
               </ul>
             </div>
