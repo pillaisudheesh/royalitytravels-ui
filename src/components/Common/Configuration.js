@@ -7,4 +7,4 @@ export const aboutCompany = `<p>R P Royality Tours and Travel Solutions Private 
   As per MCA records R P Royality Tours and Travel Solutions Private Limited is involved in activities such as 
   (Supporting and auxilliary transport activities, activities of) Other supporting transport activities. </p>
   <p>R P Royality Tours and Travel Solutions Private Limited registered office address is 
-  No.1, Karakkattukunnu, Mekkad P.o Unity Nagar, Nedumbassery Ernakulam Kerala 683589 India.</p>`;
+  No.1, Karakkattukunnu, Mekkad P.O Unity Nagar, Nedumbassery Ernakulam Kerala 683589 India.</p>`;
