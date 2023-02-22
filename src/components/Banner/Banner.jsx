@@ -3,6 +3,10 @@ import { Container, Row, Col, Button } from 'react-bootstrap';
 import Icofont from 'react-icofont';
 
 const Banner = () => {
+  const handleClick = (e) => {
+    e.preventDefault();
+    location.href = 'https://forms.gle/zcesX3VYa8Bd1VX17';
+  };
   return (
     <section className="banner">
       <Container>
@@ -19,7 +23,10 @@ const Banner = () => {
                 Whether you&apos;re looking for a taxi, holiday planning, tickets, accommodations,
                 or the whole package, we have you covered
               </p>
-              <Button variant="primary" className="btn btn-main-2 btn-icon btn-round-full">
+              <Button
+                variant="primary"
+                className="btn btn-main-2 btn-icon btn-round-full"
+                onClick={(e) => handleClick(e)}>
                 Enquire Now <Icofont icon="simple-right" />
               </Button>
             </div>
